@@ -85,7 +85,7 @@ inquirer
     const markdownString = generateMarkdown(data);
 
     // Write the markdown string to a README.md file
-    fs.writeFile('README.md', markdownString, (err) =>
+    fs.writeFile('./newReadmeFile/README.md', markdownString, (err) =>
       err ? console.error(err) : console.log('README file generated successfully!')
     );
   });

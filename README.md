@@ -35,7 +35,7 @@
 
 2. Follow the prompts to input information about your project.
 
-3. Once you have completed all the prompts, the generated README.md file will be saved in the same directory as the index.js file.
+3. Once you have completed all the prompts, the generated README.md file will be saved in the newReadmeFile directory.
 
 ## Table of Contents
 
