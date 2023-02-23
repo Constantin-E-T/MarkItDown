@@ -17,7 +17,7 @@
 
 1. Clone this repository to your local machine.
 
-    <code style="background-color: #2d2d2d; color: white">git clone <https://github.com/Constantin-E-T/MarkItDown.git</code>>
+    <code style="background-color: #2d2d2d; color: white">git clone https://github.com/Constantin-E-T/MarkItDown.git</code>
 
 2. Install the necessary dependencies using npm.
 
