@@ -17,6 +17,7 @@ The tool uses Node.js packages like Inquirer and fs to prompt the user for infor
 ## Usage
 
 1. Run the index.js file in your terminal to start the MarkItDown tool.
+
     `node index.js`
 
 2. Follow the prompts to input information about your project.
