@@ -13,6 +13,29 @@
 
 <p>The tool uses <strong>Node.js</strong> packages like <strong>Inquirer</strong> and <strong>fs</strong> to prompt the user for information and write the markdown string to a <strong>README.md</strong> file. It also includes input validation functions to ensure that the user's input is valid, such as validating the user's <strong>GitHub username</strong> and <strong>email address</strong>.</p>
 
+## Project Live Video Demo👇
+
+* Check out the live video demo [@MarkItDown](https://drive.google.com/file/d/1gOIA8CyPMkBiDM2jiyLc3JPUp4syd4-3/view) and see how it works! 🚀
+
+## Table of Contents
+
+* [Authors](#authors)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screenshots](#screenshots)
+* [Authors](#authors)
+* [Skills](#skills)
+* [Stack](#stack)
+* [Download](#download)
+* [License](#license)
+
+## Screenshots
+![App Screenshot](./assets/images/ClimateCheck-2023-02-04.png)
+
+## Authors
+
+* [@Constantin-E-T](https://github.com/Constantin-E-T/)
+
 ## Installation
 
 1. Clone this repository to your local machine.
@@ -37,12 +60,14 @@
 
 3. Once you have completed all the prompts, the generated README.md file will be saved in the newReadmeFile directory.
 
-## Table of Contents
+## Skills
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Download](#download)
+    Javascript, HTML, CSS, Python, Django
 
-## Download
+## Stack
 
-MarkItDown is available for download on GitHub at <https://github.com/Constantin-E-T/MarkItDown>.
+    JavaScript, Node.js
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
