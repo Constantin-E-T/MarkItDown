@@ -4,7 +4,7 @@
   // param license - The license you want to use.
   // returns A URL for a badge that corresponds to the license that was selected.
  
-  function generateBadgeURL(license) {
+function generateBadgeURL(license) {
     switch (license) {
       case 'MIT':
         return 'https://img.shields.io/badge/License-MIT-yellow.svg';
