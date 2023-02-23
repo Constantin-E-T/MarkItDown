@@ -19,6 +19,10 @@
 
     <code style="background-color: #2d2d2d; color: white">git clone https://github.com/Constantin-E-T/MarkItDown.git</code>
 
+2. Change Dir.
+
+    <code style="background-color: #2d2d2d; color: white">cd MarkItDown</code>
+
 2. Install the necessary dependencies using npm.
 
     <code style="background-color: #2d2d2d; color: white"> npm install </code>
