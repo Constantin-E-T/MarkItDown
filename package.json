@@ -42,5 +42,8 @@
   "bugs": {
     "url": "https://github.com/Constantin-E-T/MarkItDown/issues"
   },
-  "homepage": "https://github.com/Constantin-E-T/MarkItDown#readme"
+  "homepage": "https://github.com/Constantin-E-T/MarkItDown#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
 }
