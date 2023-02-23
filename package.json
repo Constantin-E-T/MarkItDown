@@ -1,0 +1,46 @@
+{
+  "name": "markitdown",
+  "version": "1.0.0",
+  "description": "Is a command-line interface tool that allows users to easily generate a professional README file for their GitHub projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Constantin-E-T/MarkItDown.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "fs",
+    "generateMarkdown",
+    "validateInput",
+    "prompt",
+    "user",
+    "input",
+    "readme",
+    "markdown",
+    "write",
+    "file",
+    "project",
+    "title",
+    "description",
+    "installation",
+    "usage",
+    "license",
+    "contribution",
+    "guidelines",
+    "tests",
+    "GitHub",
+    "username",
+    "email",
+    "address."
+  ],
+  "author": "Constantin Emilian Tivlica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Constantin-E-T/MarkItDown/issues"
+  },
+  "homepage": "https://github.com/Constantin-E-T/MarkItDown#readme"
+}
