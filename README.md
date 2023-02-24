@@ -2,6 +2,10 @@
 
 <div align="center">
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?color=brightgreen)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Constantin-E-T/MarkItDown.svg?color=blueviolet)](https://github.com/Constantin-E-T/MarkItDown/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Constantin-E-T/MarkItDown.svg?color=orange)](https://github.com/Constantin-E-T/MarkItDown/issues)
