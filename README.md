@@ -15,11 +15,10 @@
 
 ## Project Live Video Demo👇
 
-* Check out the live video demo [@MarkItDown](https://drive.google.com/file/d/1gOIA8CyPMkBiDM2jiyLc3JPUp4syd4-3/view) and see how it works! 🚀
+* Check out the live video demo [@MarkItDown](https://drive.google.com/file/d/1R22T2q9FY4P7ZfJRNlem_Jbo8aS7JdEq/view) and see how it works! 🚀
 
 ## Table of Contents
 
-* [Authors](#authors)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Screenshots](#screenshots)
@@ -30,7 +29,8 @@
 * [License](#license)
 
 ## Screenshots
-![App Screenshot](./assets/images/ClimateCheck-2023-02-04.png)
+![App Screenshot](./assets/images/MarkItDown1.png)
+![App Screenshot](./assets/images/MarkItDown2.png)
 
 ## Authors
 
